@@ -14,12 +14,12 @@
 1. To get the data, run `python Code/download_data.py` - this will create a folder called Data in the root
 
 For:
-- **Reports** see [GROUP](https://github.com/we/) / [ACR](https://github.com/we/) / [LB](https://github.com/we/) / [TW](https://github.com/we/)
-- **Data Exploration** see [ACR](https://github.com/we/) / [LB](https://github.com/we/) / [TW](https://github.com/we/)
-- **Basic Bidding Strategies** see [this](https://github.com/we/)
-- **Linear Bidding Strategy** see [this](https://github.com/we/)
-- **Indiv Bidding Strategies** see [ACR](https://github.com/we/) / [LB](https://github.com/we/) / [TW](https://github.com/we/)
-- **Group Bidding Strategies** see [this](https://github.com/we/) (note - also see Indiv Bidding Strategies above)
+- **Reports** see [GROUP](https://github.com/uclwe/rtb/blob/master/Reports/group_01_report.pdf) / [ACR](https://github.com/we/) / [LB](https://github.com/we/) / [TW](https://github.com/uclwe/rtb/blob/master/Reports/twarr_report.pdf)
+- **Data Exploration** see [ACR](https://github.com/we/) / [LB](https://github.com/we/) / [TW](https://github.com/uclwe/rtb/blob/master/i-TW/TW-data-exploration.ipynb)
+- **Basic Bidding Strategies** see - - - - LYN PLEASE ADD LINK - - - -
+- **Linear Bidding Strategy** see [this](https://github.com/uclwe/rtb/blob/master/i-TW/LinearStrategy.ipynb)
+- **Indiv Bidding Strategies** see [ACR](https://github.com/we/) / [LB](https://github.com/we/) / [TW](https://github.com/uclwe/rtb/tree/master/i-TW)
+- **Group Bidding Strategies** see - - - - ALI PLEASE ADD LINK - - - -
 
 -------
 
