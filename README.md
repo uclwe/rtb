@@ -19,7 +19,7 @@ For:
 - **Basic Bidding Strategies** see - - - - LYN PLEASE ADD LINK - - - -
 - **Linear Bidding Strategy** see [this](https://github.com/uclwe/rtb/blob/master/i-TW/LinearStrategy.ipynb)
 - **Indiv Bidding Strategies** see [ACR](https://github.com/we/) / [LB](https://github.com/we/) / [TW](https://github.com/uclwe/rtb/tree/master/i-TW)
-- **Group Bidding Strategies** see - - - - ALI PLEASE ADD LINK - - - -
+- **Group Bidding Strategies** see - - - - [NEURAL](https://github.com/uclwe/rtb/blob/master/i-ACR/ACR_BestBiddingStrategy.ipynb) / see [MULTI-AGENT](https://github.com/uclwe/rtb/blob/master/i-ACR/Reinforcement_Learning-Agents-ACR.ipynb) (bottom of notebook, after single agent)- - - -
 
 -------
 
