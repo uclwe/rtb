@@ -116,7 +116,7 @@ def new_performance(bids, true_y, budget=6250*1000, verbose=True, return_stats=T
     #--- Calculate average cost per click ------
     if num_clicks > 0:
         aCPC = (spend/1000)/num_clicks #<--- left as an integer for now
-    aCPM = (spend/impressions)
+    aCPM = (spend/impressions) if impressions > 0 else 0
     
     if verbose:  
         print("               CTR:", "({0:.4f})%".format(CTR))

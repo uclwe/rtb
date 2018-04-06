@@ -36,9 +36,9 @@ def plot_bar_graph(summary, xcol, ycol, xlabel, ylabel, title):
     plt.show()
 
 def plot_price_distribution(data, price):
-    width = 0.4
+    width = 0.6
     dist = dist_table(data, price)
-    plt.bar(dist[price], dist['count'],width, color="lightblue")
+    plt.bar(dist[price], dist['count'],width, color="black")
     plt.ylabel('Count')
     plt.xlabel(price)
     plt.title('Distribution of ' + price)
