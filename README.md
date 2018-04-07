@@ -15,7 +15,7 @@
 
 For:
 - **Reports** see [GROUP](https://github.com/uclwe/rtb/blob/master/Reports/group_01_report.pdf) / [ACR](https://github.com/uclwe/rtb/blob/master/Reports/acowen-rivers_report.pdf) / [LB](https://github.com/uclwe/rtb/blob/master/Reports/lynray_barends_report.pdf) / [TW](https://github.com/uclwe/rtb/blob/master/Reports/twarr_report.pdf)
-- **Data Exploration** see [ACR](https://github.com/uclwe/rtb/blob/master/i-ACR/Individual_Data_Exploration_ACR.ipynb) / [LB](https://github.com/uclwe/rtb/i-LB/Individual%20-%20Lynray-DataExploration.ipynb) / [TW](https://github.com/uclwe/rtb/blob/master/i-TW/TW-data-exploration.ipynb)
+- **Data Exploration** see [ACR](https://github.com/uclwe/rtb/blob/master/i-ACR/Individual_Data_Exploration_ACR.ipynb) / [LB](https://github.com/uclwe/rtb/blob/master/i-LB/Individual%20-%20Lynray-DataExploration.ipynb) / [TW](https://github.com/uclwe/rtb/blob/master/i-TW/TW-data-exploration.ipynb)
 - **Basic Bidding Strategies** see [this](https://github.com/uclwe/rtb/blob/master/Code/Basic_Bidding_Strategies-Lynray.ipynb)
 - **Linear Bidding Strategy** see [this](https://github.com/uclwe/rtb/blob/master/i-TW/LinearStrategy.ipynb)
 - **Indiv Bidding Strategies** see [ACR](https://github.com/we/) / [LB](https://github.com/we/tree/master/i-LB) / [TW](https://github.com/uclwe/rtb/tree/master/i-TW)
