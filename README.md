@@ -19,7 +19,7 @@ For:
 - **Basic Bidding Strategies** see [this](https://github.com/uclwe/rtb/blob/master/Code/Basic_Bidding_Strategies-Lynray.ipynb)
 - **Linear Bidding Strategy** see [this](https://github.com/uclwe/rtb/blob/master/i-TW/LinearStrategy.ipynb)
 - **Indiv Bidding Strategies** see [ACR](https://github.com/we/) / [LB](https://github.com/we/tree/master/i-LB) / [TW](https://github.com/uclwe/rtb/tree/master/i-TW)
-- **Group Bidding Strategies** see - - - - [NEURAL](https://github.com/uclwe/rtb/blob/master/i-ACR/ACR_BestBiddingStrategy.ipynb) / [MULTI-AGENT](https://github.com/uclwe/rtb/blob/master/i-ACR/Reinforcement_Learning-Agents-ACR.ipynb) (bottom of notebook, after single agent)- - - -
+- **Group Bidding Strategies** see - - - - [NEURAL](https://github.com/uclwe/rtb/blob/master/i-ACR/ACR_BestBiddingStrategy.ipynb) / [MULTI-AGENT](https://github.com/uclwe/rtb/blob/master/i-ACR/Reinforcement_Learning-Agents-ACR.ipynb) (By ACR, after single agent in RE notebook)- - - -
 
 -------
 
